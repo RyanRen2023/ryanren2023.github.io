@@ -25,9 +25,8 @@ jobs:
       - name: Build documentation
         run: |
           mkdocs build
-
       - name: Deploy to GitHub Pages
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN_R }}
         run: |
           mkdocs gh-deploy --force
