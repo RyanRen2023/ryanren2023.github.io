@@ -26,13 +26,6 @@ jobs:
         run: |
           mkdocs build
 
-<<<<<<< HEAD
-      - name: Build documentation
-        run: |
-          mkdocs build
-
-=======
->>>>>>> 7430aa3 (change  token)
       - name: Deploy to GitHub Pages
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
