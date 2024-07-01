@@ -1,0 +1,15 @@
+site_name: Xihai Personal Pages
+nav:
+  - Home: index.md
+  - About: about.md
+  - License: license.md
+theme: readthedocs
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      baselevel: 2
+      separator: "_"
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/RyanRen2023/Portfolio
