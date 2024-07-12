@@ -1,5 +1,5 @@
-# ryanren2023.github.io
+# Xihai Ren's Portfolio
 
-Welcome to my portfolio, click [here](ryanren2023.github.io) to access.
+Welcome to my personal portfolio! Click [here](https://ryanren2023.github.io) to access it.
 
-I used CI/CD to deploy and mantaince this my portfolio. 
+I have utilized CI/CD pipelines to deploy and maintain this portfolio, ensuring it stays updated and reliable.
