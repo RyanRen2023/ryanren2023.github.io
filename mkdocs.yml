@@ -9,6 +9,7 @@ nav:
   - Projects:
       - Academic Projects: projects/academic_projects.md
       - Work Projects: projects/work_projects.md
+  - Studies: studies.md
   - Contact: contact.md
 
 theme:
