@@ -2,4 +2,6 @@
 
 - [Floor SQLite](mobile/floor_sqllite.md)
 
-# Java
+# Business Intellegence(BI)
+
+- [Association Rules](BI/association_rules.md)

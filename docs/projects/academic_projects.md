@@ -3,6 +3,8 @@
 ## Static Web Application
 A personal portfolio includes a homepage, resume page, projects page, and contact page. This project was implemented using HTML and CSS.
 
+- [Github Code](https://github.com/RyanRen2023/Portfolio/tree/main/01Projects/Profile)
+
 ## Dynamic Web Application
 Task Management Application was implemented using HTML, CSS, JavaScript, PHP, and MySQL. This application includes features such as login and task management.
 
