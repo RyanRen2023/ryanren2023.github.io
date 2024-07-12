@@ -1,15 +1,63 @@
-site_name: Xihai Personal Pages
+site_name: Xihai Ren's Portfolio
+site_description: "Welcome to Xihai Ren's personal portfolio"
+site_author: "Xihai Ren"
+site_url: "https://ryanren2023.github.io"
+
 nav:
   - Home: index.md
-  - About: about.md
-  - License: license.md
-theme: material
+  - Profile: profile.md
+  - Projects:
+      - Academic Projects: projects/academic_projects.md
+      - Work Projects: projects/work_projects.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  palette:
+    - scheme: default
+      primary: black
+      accent: black
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.instant
+  icon:
+    logo: material/library_books
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RyanRen2023
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/xihai-ren/
+
 markdown_extensions:
   - toc:
-      permalink: "#"
-      baselevel: 2
+      permalink: true
+      baselevel: 1
       separator: "_"
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/RyanRen2023/Portfolio
+
+extra_css:
+  - 'assets/css/custom.css'
+extra_javascript:
+  - 'assets/js/custom.js'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RyanRen2023
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/xihai-ren/
+  footer:
+    copyright: "Copyright &copy; 2024 Xihai Ren"
+    navigation:
+      - name: Home
+        link: index.md
+      - name: Profile
+        link: profile.md
+      - name: Projects
+        link: projects.md
+      - name: Contact
+        link: contact.md
