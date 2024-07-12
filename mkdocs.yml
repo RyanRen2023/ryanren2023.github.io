@@ -51,6 +51,8 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xihai-ren/
   footer:
+    text: ""
+    icon: ""
     copyright: "Copyright &copy; 2024 Xihai Ren"
     navigation:
       - name: Home

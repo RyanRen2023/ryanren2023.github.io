@@ -13,7 +13,7 @@ author: "Xihai Ren"
 <div class="main-content">
   <div class="content-main-flex">
     <aside class="content-aside">
-      <img src="assets/images/Xihai.jpg" alt="Xihai Ren Photo">
+      <img src="assets/images/xihai.jpg" alt="Xihai Ren Photo">
     </aside>
     <section class="introduction">
       <header class="personal-info">
