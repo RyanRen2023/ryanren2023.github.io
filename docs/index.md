@@ -17,32 +17,35 @@ author: "Xihai Ren"
     </aside>
     <section class="introduction">
       <header class="personal-info">
-        <h1>About Me</h1>
-        <h2>I Am <span class="highlight">Xihai Ren</span>, a Software Developer, Data Analyst, and Project Manager.</h2>
+        <h2>Welcome to my Portfolio!</h2>
+        <h3>I Am <span class="highlight">Xihai Ren</span>, a dedicated and experienced Software Developer, Data Analyst, and Project Manager.</h3>
       </header>
       <div class="personal-details">
         <p><strong>Location:</strong> Ottawa, ON, Canada</p>
       </div>
       <a href="projects/academic_projects" class="button">View Portfolio</a>
     </section>
-  </div>
-  
-  <!-- Skills Section -->
-  <section class="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>Programming Languages: Java, Python, Shell</li>
-      <li>Data Analysis: Data Modeling, ETL, Data Analysis and Visualization</li>
-      <li>Data Tools: Informatica, Cognos, Weka, RapidMiner, Pivot Table (Excel, Pandas)</li>
-      <li>Databases: SQL, Microsoft SQL Server, Oracle, Data Warehouse</li>
-      <li>DevOps Tools: Agile, Azure, Cloud, Git, GitHub, JIRA, CI/CD</li>
-      <li>Operating Systems: Linux, VMWare, Docker</li>
-      <li>Development Tools: VS Code, Eclipse</li>
-    </ul>
-  </section>
+  </div>  
 </div>
 
-<!-- Footer Section -->
-<footer>
-  <p>&copy; 2024 Xihai Ren</p>
-</footer>
+<h2>Technical Skills</h2>
+
+- **Programming Languages:** Java, Python, Dart, PHP, JSP
+- **Web Development:** JavaScript, HTML/CSS, jQuery, Vue, React
+- **Data Analysis:** Data Modeling, ETL, Data Analysis and Visualization
+- **Data Tools:** Informatica, Cognos, Weka, RapidMiner, Pivot Table
+- **Databases:** SQL, Microsoft SQL Server, Oracle, PostgreSQL, MySQL, MongoDB, Redis
+- **Web Services:** Webservice, RESTful Service (Microservices)
+- **Frameworks:** Spring Boot, Spring MVC, Struts, Hibernate
+- **Middleware:** WebLogic, Tomcat
+- **Messaging Systems:** Kafka, IBM MQ
+- **DevOps Tools:** Azure, Pipeline, Cloud, Docker, Jenkins, Git, GitHub, JIRA
+- **Operating Systems:** Windows, Ubuntu, SUSE Linux, Mac
+- **Development Tools:** Eclipse, Android Studio, NetBeans, Visual Studio Code, VMWare
+
+
+#
+#
+#
+
+

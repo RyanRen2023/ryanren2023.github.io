@@ -14,6 +14,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: custom_theme/
   logo: assets/images/logo.png
   favicon: assets/images/favicon.ico
   palette:
@@ -26,6 +27,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+    # - navigation.footer
   icon:
     logo: material/library_books
   social:
@@ -33,6 +35,7 @@ theme:
       link: https://github.com/RyanRen2023
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xihai-ren/
+
 
 markdown_extensions:
   - toc:
@@ -46,21 +49,13 @@ extra_javascript:
   - 'assets/js/custom.js'
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/RyanRen2023
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xihai-ren/
-  footer:
-    text: ""
-    icon: ""
-    copyright: "Copyright &copy; 2024 Xihai Ren"
-    navigation:
-      - name: Home
-        link: index.md
-      - name: Profile
-        link: profile.md
-      - name: Projects
-        link: projects.md
-      - name: Contact
-        link: contact.md
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:ren000055@algonquinlive.com
+
+copyright: "Copyright © 2024 Xihai Ren made with Material for MkDocs"
