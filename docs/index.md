@@ -23,7 +23,9 @@ author: "Xihai Ren"
       <div class="personal-details">
         <p><strong>Location:</strong> Ottawa, ON, Canada</p>
       </div>
-      <a href="projects/academic_projects" class="button">View Portfolio</a>
+      <a href="profile" class="button">View Profile</a>
+      <a href="projects/academic_projects" class="button">View Projects</a>
+
     </section>
   </div>  
 </div>
