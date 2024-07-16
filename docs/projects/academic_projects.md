@@ -68,7 +68,7 @@ Create a "To Do" list application that lets users add items to a list. The user 
 Using Database with Flutter:
 This project demonstrates the use of a SQLite database in a Flutter application using the Floor package. The application allows users to manage a list of Todo items with the ability to add, view, and delete items. The data is securely stored using encrypted shared preferences.
 
-## Week 9 Lab
+### Week 9 Lab
 [Week 9 Lab Repository](https://github.com/RyanRen2023/s3mobile/tree/Week9-Lab)
 
 Responsive Layouts:
