@@ -9,6 +9,7 @@ nav:
   - Projects:
       - Academic Projects: projects/academic_projects.md
       - Work Projects: projects/work_projects.md
+      - React App: react-app/index.html
   - Studies: studies.md
   - Contact: contact.md
 
