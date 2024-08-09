@@ -1,4 +1,28 @@
 # Academic Projects
+## [Final Group Project - The Food Waste Reduction platform](https://github.com/RyanRen2023/fwrp)
+
+The Food Waste Reduction platform is a waste management platform. With collaboration from restaurants, consumers, food suppliers, and charitable organizations, this platform promotes sustainability throughout the supply chain as well as efforts to reduce global hunger. This document explores the functionality of the application and provides insight into its layout.
+
+### [Demonstration](fwrp.md)
+
+## [Final Group Project: Airline Management System](https://github.com/RyanRen2023/airline_management)
+
+This project is an Airline Management System designed to manage various aspects of an airline, including customers, airplanes, flights, and reservations. Each section of the application is handled by a different team member, ensuring a comprehensive and well-rounded development process.
+
+The main page of the application serves as the entry point and includes four buttons. Each button navigates to a different section of the project:
+
+1. Customer List Page
+2. Airplane List Page
+3. Flights List Page
+4. Reservation Page
+
+![Home Page Landscape](./airline/HomePage-Landscape.png)
+
+![Home Page Portrait](./airline/HomePage-Portrait.png)
+
+
+
+
 
 ## [Static Web Application](https://github.com/RyanRen2023/Portfolio/tree/main/01Projects/Profile)
 A personal portfolio includes a homepage, resume page, projects page, and contact page. This project was implemented using HTML and CSS.
